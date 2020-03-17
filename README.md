@@ -1,0 +1,1 @@
+# Webovy-analyzator
